@@ -9,7 +9,7 @@ An intuitive and easy-to-use **Interest Calculator** app built with Flutter. Thi
 - **Reset Button**: Clear inputs and reset values with a single tap.
 
 ## Screenshots
-<img src="interest_calculator_app_picture.png" width="350" height="275" alt="App Screenshot">
+<img src="interest_calculator_app_picture.png" width="350" height="575" alt="App Screenshot">
 
 ## Installation
 1. Clone the repository:
