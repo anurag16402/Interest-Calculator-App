@@ -1,17 +1,16 @@
-# Interest Calculator App
+# interest_calculator
 
-An intuitive and easy-to-use **Interest Calculator** app built with Flutter. This app allows users to calculate the future value of an investment based on the principal amount, rate of interest, and term in years. The result displays the total amount payable after the specified term.
+A new Flutter project.
 
-## Features
-- **Simple Interest Calculation**: Calculates interest based on user inputs.
-- **Currency Options**: Choose from different currencies to display the result.
-- **Form Validation**: Ensures all fields are filled out before calculating.
-- **Reset Button**: Clear inputs and reset values with a single tap.
+## Getting Started
 
-## Screenshots
-<img src="assets/images/Finance-icon.png" width="350" height="275" alt="App Screenshot">
+This project is a starting point for a Flutter application.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/interest_calculator_app.git
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
